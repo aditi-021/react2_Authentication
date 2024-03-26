@@ -1,0 +1,11 @@
+input{
+    margin-top: 10px;
+}
+
+.col-md-4{
+    margin-top: 150px;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+    padding : 20px;
+    border : 10px;
+}
+
